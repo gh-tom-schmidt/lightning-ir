@@ -1,0 +1,14 @@
+transformers[torch]
+ir_datasets
+ir-measures
+lightning
+pandas
+signatures
+jsonargparse[signatures]>=4.27.7
+sentencepiece
+protobuf
+pytest>=8.0,==8.*
+pytest-cov>=5,<7
+colbert-ai
+sentence-transformers
+faiss-cpu
